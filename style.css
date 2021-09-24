@@ -30,7 +30,7 @@ img{
 .header{
   font-weight: bold;
   font-size: 120%;
-  background-color: lime;
+  background-color: forestgreen;
 }
 
 .author {
@@ -38,5 +38,5 @@ img{
 }
 
 .final{
-  background-color: red;
+  background-color: crimson;
 }
